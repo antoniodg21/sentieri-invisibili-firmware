@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Prodotti di compilazione di Arduino / arduino-cli
+build/
+*.bin
+*.elf
+*.map
